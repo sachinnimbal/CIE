@@ -4,10 +4,10 @@ This project addresses the academic performance of students enrolled in the depa
 
 1. Install XAMPP or WAMPP.
 2. Open XAMPP Control panal and start ``apache`` and ``mysql`` .
-3. Download project from github ```(https://github.com/SunilHumanabad/CIE-Entry-System.git)```  
+3. Download project from github ```(https://github.com/sachinnimbal/CIE.git)```  
     OR follow gitbash commands    
     i>cd C:\\xampp\htdocs\    
-    ii>git clone ``` https://github.com/SunilHumanabad/CIE-Entry-System.git ```   
+    ii>git clone ``` https://github.com/sachinnimbal/CIE.git ```   
 4. extract files in ```C:\\xampp\htdocs\```.
 5. open link localhost/phpmyadmin
 6. click on new at side navbar.
